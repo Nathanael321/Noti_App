@@ -1,4 +1,5 @@
-BuiltresponsiveiOSapplicationusingSwifttargetedathelpingparentskeepupwiththeeventsofthehighschooltheirstudents attend.
+Noti is a responsive iOS application using Swift targeted at helping parents keep up with the events of the high school their children attend.
+
 Ensure cocoa pods is installed by doing: sudo gem install cocoapods
 then do 'pod init' inside Noti folder in terminal
 
